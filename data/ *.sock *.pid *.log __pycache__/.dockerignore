@@ -1,8 +1,0 @@
-data/
-*.sock
-*.pid
-*.log
-__pycache__/
-.git
-.gitignore
-.env
